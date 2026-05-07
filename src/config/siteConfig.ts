@@ -13,8 +13,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "Faust",
 
 	// 站点 URL
-	site_url: "https://erogame.space/"
-	ame.space",
+	site_url: "https://erogame.space",
 
 	// 站点描述
 	description:
